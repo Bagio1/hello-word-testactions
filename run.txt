@@ -1,0 +1,28 @@
+npm start
+
+http://localhost:3000/api/hello
+
+for run the test 
+
+npm install
+
+npm test
+
+Jest for JS test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integration testing — ✅ Present
+app.test.js is an integration test. supertest sends a real HTTP request through Express (router → handler → response).
+ Multiple components interact, but no real network/server is started. This matches "testing a group of interacting modules."
