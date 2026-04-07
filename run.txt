@@ -25,4 +25,4 @@ Jest for JS testtttt
 
 Integration testing — ✅ Present
 app.test.js is an integration test. supertest sends a real HTTP request through Express (router → handler → response).
- Multiple components interact, but no real network/server is started. This matches "testing a group of interacting modules."
+Multiple components interact, but no real network/server is started. This matches "testing a group of interacting modules."
